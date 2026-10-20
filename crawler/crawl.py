@@ -268,11 +268,36 @@ def crawl_by_link_pattern(url, pattern, name, category, limit=12, tags=None):
 
 
 def creativemarket_free():
-    """Creative Market 이번 주 무료 상품 4개 (free-goods 페이지)"""
-    return crawl_by_link_pattern(
-        "https://creativemarket.com/free-goods", r"creativemarket\.com/[^/]+/\d+-",
-        "Creative Market", "design", limit=4, tags=["이번 주 무료"],
-    )
+    """Creative Market 이번 주 무료 상품 4개 (free-goods 페이지).
+
+    주의: 이 페이지엔 진짜 무료 4개 말고도 '월간 드롭(Monthly Drop)'이라는
+    유료($9.95) 상품들이 같은 모양의 링크(숍이름/숫자-상품명)로 잔뜩 섞여 있어요.
+    그래서 URL 모양만으로 고르면 안 되고, 무료 상품을 담는 영역
+    (featured-asset = 대표 1개, free-asset-card = 나머지 3개) 안에서만 찾아요.
+    """
+    from bs4 import BeautifulSoup
+
+    r = S.get("https://creativemarket.com/free-goods", timeout=20)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    rx = re.compile(r"creativemarket\.com/[^/]+/\d+-")
+    seen, out = set(), []
+    for box in soup.select(".featured-asset, .free-asset-card"):
+        a = next((a for a in box.select("a[href]") if rx.search(urljoin(r.url, a["href"]))), None)
+        if not a:
+            continue
+        href = urljoin(r.url, a["href"])
+        if href in seen:
+            continue
+        seen.add(href)
+        h = box.select_one("h3, [class*='product-title'], [class*='featured-asset__title']")
+        title = clean(h.get_text(" ")) if h else clean(a.get_text(" "))
+        img = box.find("img")
+        src = (img.get("src") or img.get("data-src") or "") if img else ""
+        if not title:
+            continue
+        out.append(make_item("design", title, href, "Creative Market", None, "", src, ["이번 주 무료"]))
+    return out[:4]
 
 
 def codester_free():
