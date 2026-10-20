@@ -20,9 +20,16 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "items.json"
 CONF = Path(__file__).with_name("sources.json")
 KST = timezone(timedelta(hours=9))
-UA = "Mozilla/5.0 (compatible; FreeInfoHub/1.0; personal use)"
+# 일부 사이트(특히 Cloudflare 등 보안이 걸린 곳)는 "나는 크롤러예요"라고 밝히는 User-Agent를
+# 바로 차단해요. 그래서 일반 데스크톱 브라우저와 똑같은 모양의 헤더를 보내요.
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36")
 S = requests.Session()
-S.headers["User-Agent"] = UA
+S.headers.update({
+    "User-Agent": UA,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+})
 
 
 def now():
