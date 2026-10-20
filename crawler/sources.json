@@ -1,6 +1,6 @@
 {
   "_note": "builtin은 코드에 들어있는 출처, custom은 직접 추가하는 출처예요. custom은 enabled를 true로 바꾸고 url을 채우면 켜집니다. type은 rss 또는 html.",
-  "builtin": ["epic", "gamerpower", "gov24", "creativefabrica", "designbundles"],
+  "builtin": ["epic", "gamerpower", "gov24", "creativefabrica", "designbundles", "creativemarket", "codester", "tumblbug"],
   "notify": { "within_days": 3, "new_categories": ["trial", "gov"] },
   "custom": [
     {

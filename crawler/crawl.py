@@ -237,6 +237,60 @@ def creativefabrica_daily():
     return out
 
 
+def crawl_by_link_pattern(url, pattern, name, category, limit=12, tags=None):
+    """목록 페이지에서 특정 모양의 상품 링크만 찾아 제목·이미지를 함께 뽑는 범용 함수.
+
+    exact 클래스 이름 대신 URL 모양(정규식)으로 상품 카드를 찾기 때문에
+    사이트가 디자인을 바꿔도 비교적 잘 버텨요. (디자인번들 어댑터와 같은 방식)
+    """
+    from bs4 import BeautifulSoup
+
+    r = S.get(url, timeout=20)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    rx = re.compile(pattern)
+    seen, out = set(), []
+    for a in soup.select("a[href]"):
+        href = urljoin(r.url, a["href"].split("?")[0])
+        if not rx.search(href) or href in seen:
+            continue
+        seen.add(href)
+        box = a.find_parent(["div", "li", "article"]) or a.parent
+        img = a.find("img") or (box.find("img") if box else None)
+        title = clean(a.get_text(" ")) or (img.get("alt") if img else "") or ""
+        if not title or len(title) < 2:
+            continue
+        src = (img.get("src") or img.get("data-src") or "") if img else ""
+        out.append(make_item(category, title, href, name, None, "", src, tags))
+        if len(out) >= limit:
+            break
+    return out
+
+
+def creativemarket_free():
+    """Creative Market 이번 주 무료 상품 4개 (free-goods 페이지)"""
+    return crawl_by_link_pattern(
+        "https://creativemarket.com/free-goods", r"creativemarket\.com/[^/]+/\d+-",
+        "Creative Market", "design", limit=4, tags=["이번 주 무료"],
+    )
+
+
+def codester_free():
+    """코드이스터 무료 코드/템플릿 (Free 카테고리 목록)"""
+    return crawl_by_link_pattern(
+        "https://www.codester.com/free/", r"codester\.com/items/\d+",
+        "Codester", "design", limit=12, tags=["무료"],
+    )
+
+
+def tumblbug_pre_experience():
+    """텀블벅 '프리체험단' 컬렉션 페이지에 올라온 프로젝트들"""
+    return crawl_by_link_pattern(
+        "https://tumblbug.com/collections/pre-experience2024", r"tumblbug\.com/projects/[^/]+$",
+        "텀블벅 체험단", "trial", limit=16, tags=["체험단"],
+    )
+
+
 def designbundles_weekly():
     """디자인번들 '이번 주 무료' 4개 (화니의 자동다운로드 스크립트와 같은 목록 페이지)."""
     from bs4 import BeautifulSoup
@@ -265,7 +319,9 @@ def designbundles_weekly():
 
 
 BUILTIN = {"epic": epic, "gamerpower": gamerpower, "gov24": gov24,
-           "creativefabrica": creativefabrica_daily, "designbundles": designbundles_weekly}
+           "creativefabrica": creativefabrica_daily, "designbundles": designbundles_weekly,
+           "creativemarket": creativemarket_free, "codester": codester_free,
+           "tumblbug": tumblbug_pre_experience}
 CUSTOM = {"rss": crawl_rss, "html": crawl_html}
 
 
