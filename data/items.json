@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:05:29.039205+09:00",
+ "updated": "2026-10-23T01:33:48.693777+09:00",
  "items": [
   {
    "id": "e64c3cf69470",
@@ -85,7 +85,7 @@
     "iOS"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -103,7 +103,7 @@
     "정가 $5.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -121,7 +121,24 @@
     "정가 $7.99"
    ],
    "first_seen": "2026-10-22T06:12:17.587129+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
+   "notified": false
+  },
+  {
+   "id": "e5bee646e3e6",
+   "category": "game",
+   "title": "Home - A Unique Horror Adventure",
+   "url": "https://store.epicgames.com/ko/p/home-19212a",
+   "source": "Epic Games",
+   "deadline": "2026-10-30T00:00:00+09:00",
+   "summary": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+   "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+   "tags": [
+    "Epic",
+    "지금 무료"
+   ],
+   "first_seen": "2026-10-23T01:33:48.693777+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -139,7 +156,43 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
+   "notified": false
+  },
+  {
+   "id": "8e241a274ec1",
+   "category": "game",
+   "title": "Sker Ritual (Epic Games) Giveaway",
+   "url": "https://www.gamerpower.com/open/sker-ritual",
+   "source": "GamePower",
+   "deadline": "2026-10-30T08:59:59+09:00",
+   "summary": "Looking for a Call of Duty Zombies-like experience? Get Sker Ritual for free on Epic Games Store! Sker Ritual is a cool 3d co-op horde shooter game where you can play solo or with up to 4 players.",
+   "image": "https://www.gamerpower.com/offers/1/sker.jpg",
+   "tags": [
+    "PC",
+    "Epic Games Store",
+    "정가 $19.99"
+   ],
+   "first_seen": "2026-10-23T01:33:48.693777+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
+   "notified": false
+  },
+  {
+   "id": "e8855c9052c0",
+   "category": "game",
+   "title": "Home (Epic Games) Giveaway",
+   "url": "https://www.gamerpower.com/open/home",
+   "source": "GamePower",
+   "deadline": "2026-10-30T08:59:59+09:00",
+   "summary": "Don´t miss this indie game! Grab Home for free via Epic Games Store! Home is a indie murder mystery game set in a 2d pixel world. *Please note this game is also available via Epic Games App (Android a",
+   "image": "https://www.gamerpower.com/offers/1/home.jpg",
+   "tags": [
+    "PC",
+    "Android",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-10-23T01:33:48.693777+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -156,7 +209,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -174,7 +227,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -192,7 +245,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -210,7 +263,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -228,7 +281,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -246,7 +299,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -264,7 +317,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -282,7 +335,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -300,7 +353,7 @@
     "정가 $2.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -318,7 +371,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -335,7 +388,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -352,7 +405,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -370,7 +423,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -450,7 +503,7 @@
     "무료"
    ],
    "first_seen": "2026-10-20T20:31:43.907273+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -466,7 +519,7 @@
     "무료"
    ],
    "first_seen": "2026-10-20T20:31:43.907273+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -482,7 +535,7 @@
     "무료"
    ],
    "first_seen": "2026-10-20T20:31:43.907273+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   },
   {
@@ -498,7 +551,7 @@
     "무료"
    ],
    "first_seen": "2026-10-20T20:31:43.907273+09:00",
-   "last_seen": "2026-10-22T20:05:29.039205+09:00",
+   "last_seen": "2026-10-23T01:33:48.693777+09:00",
    "notified": false
   }
  ]
