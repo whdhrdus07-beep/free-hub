@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:03:02.922435+09:00",
+ "updated": "2026-10-29T07:08:21.684764+09:00",
  "items": [
   {
    "id": "e7748dee936c",
@@ -16,7 +16,7 @@
     "정가 $7.99"
    ],
    "first_seen": "2026-10-22T06:12:17.587129+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -33,25 +33,7 @@
     "지금 무료"
    ],
    "first_seen": "2026-10-23T01:33:48.693777+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
-   "notified": false
-  },
-  {
-   "id": "ad046f593bb2",
-   "category": "game",
-   "title": "The Green Light (itch.io) Giveaway",
-   "url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway",
-   "source": "GamePower",
-   "deadline": "2026-10-30T08:59:00+09:00",
-   "summary": "Download The Green Light for free via itch.io until October 24th 2026. The Green Light is a indie first person game with a creepy atmosphere. Check it out!",
-   "image": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
-   "tags": [
-    "PC",
-    "Itch.io",
-    "정가 $9.99"
-   ],
-   "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -69,7 +51,7 @@
     "정가 $19.99"
    ],
    "first_seen": "2026-10-23T01:33:48.693777+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -87,7 +69,79 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-23T01:33:48.693777+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "ad046f593bb2",
+   "category": "game",
+   "title": "The Green Light (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-01T08:59:00+09:00",
+   "summary": "Download The Green Light for free via itch.io. The Green Light is a indie first person game with a creepy atmosphere. Check it out!",
+   "image": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $9.99"
+   ],
+   "first_seen": "2026-10-20T20:01:43.907865+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "0d8340917bbb",
+   "category": "game",
+   "title": "Liminal Space Holiday (Itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/liminal-space-holiday-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-01T08:59:00+09:00",
+   "summary": "Enjoy a Liminal Space Holiday! Score Liminal Space Holiday for free via Itch.io! Liminal Space Holiday is a retro nostalgic adventure game with 3d graphics.",
+   "image": "https://www.gamerpower.com/offers/1/6aa2ad0a69420.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $3.00"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "70b3d417f58f",
+   "category": "game",
+   "title": "Sleep Demon (Itchio) Giveaway",
+   "url": "https://www.gamerpower.com/open/sleep-demon-itchio-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-01T08:59:00+09:00",
+   "summary": "Download Sleep Demon for free on Itch.io until November 1, a indie single player walking simulator game about sleep paralysis.",
+   "image": "https://www.gamerpower.com/offers/1/69ca788f5d0d4.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $1.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "1753f53cc8ef",
+   "category": "game",
+   "title": "Liminal Lane (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/liminal-lane-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-01T08:59:00+09:00",
+   "summary": "Ready for a short walk? Grab Liminal Lane for free on itch.io until November 1. Liminal Lane is a very short 3d first person walking simulator.",
+   "image": "https://www.gamerpower.com/offers/1/69fe517a04b6a.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $1.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -104,7 +158,25 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "fd510170e601",
+   "category": "game",
+   "title": "The Black Within (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-01T08:59:59+09:00",
+   "summary": "Download The Black Within for free via itch.io! The Black Within is a single-player first-person psychological game with creepy atmosphere and puzzles. Check it out!",
+   "image": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $5.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -122,7 +194,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-25T12:02:01.869688+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -140,7 +212,223 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "01c3d4e27f0d",
+   "category": "game",
+   "title": "Octane100 (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/octane100-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-04T08:59:00+09:00",
+   "summary": "Join the war against the oil corporation! Grab Octane100 for free via itch.io! Octane100 is a cool 2d turn-based action game with roguelike elements.",
+   "image": "https://www.gamerpower.com/offers/1/6ae25d5c6c327.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $0.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "b8d1ff71b968",
+   "category": "game",
+   "title": "MOLOKAUST (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/molokaust-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-05T08:59:00+09:00",
+   "summary": "Download MOLOKAUST for free via itch.io! MOLOKAUST is a 3d first-person survival game with realistic graphics and unforgiving gameplay.",
+   "image": "https://www.gamerpower.com/offers/1/6ae25ef1a9917.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $10.00"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "23298f9fa201",
+   "category": "game",
+   "title": "Heirloom (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/heirloom-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-05T08:59:00+09:00",
+   "summary": "Download Heirloom for free via itch.io! Heirloom is a small 2D platformer with retro pixel graphics.",
+   "image": "https://www.gamerpower.com/offers/1/6ae257b2d5ad9.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $0.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "23207dc8fab4",
+   "category": "game",
+   "title": "Assassin at Crimson Keep (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/assassin-at-crimson-keep",
+   "source": "GamePower",
+   "deadline": "2026-11-05T08:59:59+09:00",
+   "summary": "Download Assassin at Crimson Keep for free via itch.io! Assassin at Crimson Keep is a short visual novel set in a dark world! Check it out!",
+   "image": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "e137bf3c8b69",
+   "category": "game",
+   "title": "Cherophobia (Itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:00+09:00",
+   "summary": "Download Cherophobia for free via Itch.io! Cherophobia is a short 3D psychological horror game.",
+   "image": "https://www.gamerpower.com/offers/1/698fa7369c1f5.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $1.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "beb9282cf57a",
+   "category": "game",
+   "title": "Do You Have a Moment to Talk About Our Lord and Savior? (Itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:00+09:00",
+   "summary": "Grab “Do You Have a Moment to Talk About Our Lord and Savior?” for free on itch.io! A short 3D roguelike deckbuilder with retro PSX-style graphics.",
+   "image": "https://www.gamerpower.com/offers/1/6946b8c46bc9b.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $2.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "396cca68843f",
+   "category": "game",
+   "title": "Solace Inc. (itchio) Giveaway",
+   "url": "https://www.gamerpower.com/open/solace-inc-itchio-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:00+09:00",
+   "summary": "Hack, slash, shoot, and blast! Download Solace Inc. for free on itchi.o. Solace Inc. is a 2D survivors-like game where you recruit your employees against endless hordes of enemies.",
+   "image": "https://www.gamerpower.com/offers/1/684151ffd5fd6.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $3.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "c120e8f5a77b",
+   "category": "game",
+   "title": "Very Realistic Game Dev Simulator (Itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:35+09:00",
+   "summary": "Are you planning on getting into game dev? Then this might be for you! Very Realistic Game Dev Simulator is free on Itch.io for a limited time!",
+   "image": "https://www.gamerpower.com/offers/1/6946b7c157bca.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $1.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "6423a6261b57",
+   "category": "game",
+   "title": "Project Malice (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/project-malice-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:59+09:00",
+   "summary": "Score Project Malice for free on itch.io! Project Malice is an indie isometric roguelike third-person shooter game about a ruined Earth.",
+   "image": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $9.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "ff4c60287ac8",
+   "category": "game",
+   "title": "Buckler 2 (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/buckler-2-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:59+09:00",
+   "summary": "Download Buckler 2 for free via itch.io! Buckler 2 is a 2d retro-styled roguelite platformer with unique levels and a diverse cast of characters. Check it out!",
+   "image": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $3.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "71989079ea68",
+   "category": "game",
+   "title": "Roseblight (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/roseblight",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:59+09:00",
+   "summary": "Grab Roseblight for free on itch.io! Roseblight is an RPG about a gardener with a dark secret...",
+   "image": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $7.99"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
+   "notified": false
+  },
+  {
+   "id": "0e667774cbd0",
+   "category": "game",
+   "title": "Free itch.io Games Bundle",
+   "url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
+   "source": "GamePower",
+   "deadline": "2026-11-23T08:59:00+09:00",
+   "summary": "Claim this bundle (worth $384) and download 116 games for free on itch.io! No strings attached!",
+   "image": "https://www.gamerpower.com/offers/1/6ae264e50edb5.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $384.00"
+   ],
+   "first_seen": "2026-10-29T07:08:21.684764+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -158,7 +446,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -176,7 +464,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -194,7 +482,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -212,7 +500,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -230,7 +518,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -248,7 +536,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -266,7 +554,7 @@
     "정가 $2.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -284,7 +572,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -301,7 +589,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -318,7 +606,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -336,7 +624,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -480,7 +768,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -496,7 +784,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -512,7 +800,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -528,7 +816,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   },
   {
@@ -546,7 +834,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-10-28T21:03:02.922435+09:00",
+   "last_seen": "2026-10-29T07:08:21.684764+09:00",
    "notified": false
   }
  ]
