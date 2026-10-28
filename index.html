@@ -129,6 +129,8 @@
   const CAT_NAME = Object.fromEntries(CATS);
   const catOf = (i) => (CAT_NAME[i.category] ? i.category : "etc");
   const PINNED_SOURCES = ["Creative Fabrica", "디자인번들"]; // 상단에 항상 고정으로 보여줄 출처
+  // 탬퍼몽키 스크립트가 보낸 항목(Creative Fabrica·디자인번들·Creative Market)을 읽어올 Apps Script 웹 앱 주소 (…/exec). 비워두면 안 읽어요.
+  const HUB_URL = "";
 
   const store = {
     get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
@@ -164,8 +166,8 @@
     const b = new Date(t.getFullYear(), t.getMonth(), t.getDate());
     return Math.round((a - b) / 864e5);
   }
-  function stamp(n) {
-    if (n === null) return h("div", { class: "stamp open" }, "상시");
+  function stamp(n, badge) {
+    if (n === null) return h("div", { class: "stamp open" }, badge || "상시");
     if (n < 0) return h("div", { class: "stamp" }, "마감");
     if (n === 0) return h("div", { class: "stamp today" }, "오늘");
     return h("div", { class: "stamp" + (n <= 3 ? " soon" : "") }, "D-" + n);
@@ -210,7 +212,7 @@
     const starred = state.star.has(it.id), done = state.done.has(it.id);
     return h("li", { class: "card" + (done ? " done" : "") },
       h("a", { href: url || false, target: "_blank", rel: "noopener noreferrer", "aria-label": it.title },
-        photo(it, stamp(n), isNew && h("span", { class: "new" }, "신규")),
+        photo(it, stamp(n, it.badge), isNew && h("span", { class: "new" }, "신규")),
         h("div", { class: "body" },
           h("span", { class: "ctitle" }, it.title),
           h("span", { class: "csub" }, (it.tags || []).filter(Boolean).slice(0, 2).map((t) => h("span", { class: "tag" }, t))))),
@@ -221,7 +223,7 @@
 
   function stub(it) {
     return h("a", { class: "stub", href: safeUrl(it.url) || false, target: "_blank", rel: "noopener noreferrer" },
-      photo(it, stamp(dday(it.deadline))),
+      photo(it, stamp(dday(it.deadline), it.badge)),
       h("div", { class: "t" }, it.title, h("span", { class: "c" }, it.source)));
   }
 
@@ -301,13 +303,33 @@
   }
 
   async function load() {
+    let items = [], updated = null, ok = false;
     try {
       const r = await fetch("data/items.json", { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       const d = await r.json();
-      state.items = d.items || [];
-      state.updated = d.updated;
-    } catch {
+      items = d.items || [];
+      updated = d.updated;
+      ok = true;
+    } catch {}
+
+    if (HUB_URL) {   // 탬퍼몽키가 보낸 항목을 추가로 합침 (같은 id 면 허브 쪽이 우선)
+      try {
+        const r = await fetch(HUB_URL, { cache: "no-store" });
+        if (!r.ok) throw new Error(r.status);
+        const d = await r.json();
+        const byId = new Map(items.map((i) => [i.id, i]));
+        for (const it of d.items || []) byId.set(it.id, { ...byId.get(it.id), ...it });
+        items = [...byId.values()];
+        if (d.updated && (!updated || d.updated > updated)) updated = d.updated;
+        ok = true;
+      } catch (e) { console.warn("허브 데이터를 못 읽었어요", e); }
+    }
+
+    if (ok) {
+      state.items = items;
+      state.updated = updated;
+    } else {
       state.items = sample();
       state.updated = new Date().toISOString();
       const n = $("#notice");

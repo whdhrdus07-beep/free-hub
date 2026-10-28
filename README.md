@@ -3,31 +3,26 @@
 무료 정보를 한 페이지에 모아 보는 개인용 웹사이트예요.
 
 ```
-GitHub Actions (6시간마다)
-  crawler/crawl.py ──> data/items.json ──> GitHub Pages (index.html)
-        │
-        └─ 임박·신규 항목 ──> Apps Script 웹훅 ──> 내 Gmail
+[GitHub Actions, 6시간마다]  crawler/crawl.py ──> data/items.json ─┐
+  (Epic, GamePower, Codester, 텀블벅, 보조금24)                       ├──> index.html (GitHub Pages)
+[내 브라우저, 페이지 열 때]  userscripts/*.user.js ──> Apps Script ─┘
+  (Creative Fabrica, 디자인번들, Creative Market)     (hub.gs, 저장·내보내기)
+                                       └─ 임박·신규 항목 ──> 내 Gmail
 ```
 
-## 설치 순서
+Creative Fabrica·디자인번들·Creative Market은 GitHub 서버의 요청을 403으로 막아서, 내 브라우저에서 도는 탬퍼몽키 스크립트가 찾은 항목을 Apps Script로 직접 보내요.
 
-1. 이 폴더를 GitHub 저장소로 올리기
-2. Settings → Pages → Deploy from branch → `main` / root
-3. (선택) 공공데이터포털에서 "행정안전부_대한민국 공공서비스(혜택) 정보" 활용 신청 후, 일반 인증키(Decoding)를 저장소 시크릿 `DATA_GO_KR_KEY`로 등록
-4. 메일 알림: `apps_script/reminder.gs` 상단 주석대로 배포하고, 웹 앱 URL을 `WEBHOOK_URL`, 스크립트 속성에 넣은 값을 `WEBHOOK_SECRET` 시크릿으로 등록
-5. Actions 탭 → crawl → Run workflow 로 첫 수집 실행
+## 설정 순서
 
-`index.html`은 `data/items.json`이 없으면 샘플 데이터를 보여줘요.
-
-## 출처 추가하기 (`crawler/sources.json`)
-
-- `rss`: 피드 주소만 넣으면 돼요. `include`에 넣은 단어가 제목·요약에 있는 글만 가져와요.
-- `html`: 목록 페이지에서 `item`(한 줄), `link`, `title` CSS 선택자를 지정해요.
-- 마감일은 글 안의 날짜 중 마지막 것을 자동으로 잡아요. 못 찾으면 "상시"로 표시돼요.
+1. **Apps Script**: `apps_script/hub.gs` 내용으로 통째로 교체 → 스크립트 속성 `SECRET` 설정 → 웹 앱으로 배포(액세스: 모든 사용자) → `…/exec` 주소 복사
+2. **탬퍼몽키 스크립트 3개**(`userscripts/`): 설치하고 각 파일 위쪽의 `HUB_URL`, `HUB_SECRET` 채우기
+3. **index.html**: `HUB_URL`에 같은 주소 넣고 저장소에 업로드
+4. `crawler/crawl.py`, `crawler/sources.json`도 저장소에 업로드
+5. Creative Fabrica / 디자인번들 목록 / Creative Market 무료 페이지를 브라우저로 한 번씩 열기 → 화면 왼쪽 아래에 "📤 허브로 N개 전송 완료"가 뜨면 성공
 
 ## 알아둘 점
 
-- 크롤링 전에 각 사이트의 이용약관과 robots.txt를 확인하세요. 개인 열람용으로 낮은 빈도로 가져오는 걸 전제로 짰어요.
-- 로그인이 필요하거나 자바스크립트로 목록을 그리는 사이트는 `html` 방식으로 안 잡혀요. 그런 곳은 공개 API나 RSS가 있는지 먼저 찾아보세요.
-- Gmail에는 들어오는 웹훅이 없어서, Apps Script 웹 앱이 웹훅을 받아 메일을 보내는 구조로 만들었어요. 일반 계정은 하루 발송 한도가 있어서 항목을 묶어 한 통으로 보내요.
+- 탬퍼몽키가 보낸 항목은 일정 기간 안 보내면 대시보드에서 사라져요 (Creative Fabrica 2일, 디자인번들·Creative Market 10일).
+- 크롤링 전에 각 사이트의 이용약관과 robots.txt를 확인하세요.
 - 저장(★)과 확인 표시는 브라우저 localStorage에만 저장돼요.
+- GitHub 쪽 출처 추가는 `crawler/sources.json`에서 해요 (rss / html).

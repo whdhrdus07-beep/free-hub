@@ -318,7 +318,7 @@ def codester_free():
 def tumblbug_pre_experience():
     """텀블벅 '프리체험단' 컬렉션 페이지에 올라온 프로젝트들"""
     return crawl_by_link_pattern(
-        "https://tumblbug.com/collections/pre-experience2024", r"tumblbug\.com/projects/[^/]+$",
+        "https://tumblbug.com/collections/pre-experience2024", r"tumblbug\.com/projects/[^/?#]+/?$",
         "텀블벅 체험단", "trial", limit=16, tags=["체험단"],
     )
 
