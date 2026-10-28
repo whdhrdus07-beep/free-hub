@@ -130,7 +130,7 @@
   const catOf = (i) => (CAT_NAME[i.category] ? i.category : "etc");
   const PINNED_SOURCES = ["Creative Fabrica", "디자인번들"]; // 상단에 항상 고정으로 보여줄 출처
   // 탬퍼몽키 스크립트가 보낸 항목(Creative Fabrica·디자인번들·Creative Market)을 읽어올 Apps Script 웹 앱 주소 (…/exec). 비워두면 안 읽어요.
-  const HUB_URL = "";
+  const HUB_URL = "https://script.google.com/macros/s/AKfycbwjvfWSvjrNo6O3ULle4ijdKCkF4JdM1TuOLRVExvo3B5IkZgXopjs9wd2zMKbf0ryK/exec";
 
   const store = {
     get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
