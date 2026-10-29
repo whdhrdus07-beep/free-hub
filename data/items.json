@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:13:39.612308+09:00",
+ "updated": "2026-10-30T07:23:51.211409+09:00",
  "items": [
   {
    "id": "e5bee646e3e6",
@@ -69,7 +69,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -87,7 +87,7 @@
     "정가 $3.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -105,7 +105,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -123,7 +123,25 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
+   "notified": false
+  },
+  {
+   "id": "aadea4bc5c44",
+   "category": "game",
+   "title": "Hexologic (Steam) Giveaway",
+   "url": "https://www.gamerpower.com/open/hexologic-steam-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-01T08:59:00+09:00",
+   "summary": "Fall in love in with Sudoku again! Grab Hexologic for free via Steam! Hexologic is a Sudoku-like puzzle game with nice visuals and relaxing music. Don´t miss it!",
+   "image": "https://www.gamerpower.com/offers/1/6ae37c96c0b45.jpg",
+   "tags": [
+    "PC",
+    "Steam",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-10-30T07:23:51.211409+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -140,7 +158,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -158,7 +176,7 @@
     "정가 $5.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -176,7 +194,24 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-25T12:02:01.869688+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
+   "notified": false
+  },
+  {
+   "id": "5d702b86bb50",
+   "category": "game",
+   "title": "Sorry We're Closed",
+   "url": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+   "source": "Epic Games",
+   "deadline": "2026-11-03T01:00:00+09:00",
+   "summary": "향수를 불러일으키는 싱글 플레이어 서바이벌 호러 게임 Sorry We're Closed는 풍부한 스토리, 깊이 있는 캐릭터, 다양한 엔딩이 특징입니다. 고정된 카메라 각도로 오싹한 장소들을 탐험하세요. Third Eye를 떠서 세계 사이를 보고 비밀을 밝히고 퍼즐을 풀어보세요.",
+   "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+   "tags": [
+    "Epic",
+    "지금 무료"
+   ],
+   "first_seen": "2026-10-30T07:23:51.211409+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -194,7 +229,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -212,7 +247,7 @@
     "정가 $0.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -230,7 +265,7 @@
     "정가 $10.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -248,7 +283,7 @@
     "정가 $0.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -266,7 +301,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -284,7 +319,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -302,7 +337,7 @@
     "정가 $2.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -320,7 +355,43 @@
     "정가 $3.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
+   "notified": false
+  },
+  {
+   "id": "493ebd7c8d97",
+   "category": "game",
+   "title": "Galaxy Kart (Mobile) Giveaway",
+   "url": "https://www.gamerpower.com/open/galaxy-kart-mobile-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:00+09:00",
+   "summary": "Galaxy Kart (Mobile version) is free until November 5 on the Epic Games Store App for iPhone, iPad, and Android. Note: May not be available in all regions.",
+   "image": "https://www.gamerpower.com/offers/1/6ae3661d090e9.jpg",
+   "tags": [
+    "Android",
+    "iOS",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-10-30T07:23:51.211409+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
+   "notified": false
+  },
+  {
+   "id": "9f453aa9fbea",
+   "category": "game",
+   "title": "Sorry We're Closed (Epic Games) Giveaway",
+   "url": "https://www.gamerpower.com/open/sorry-we-re-closed-epic-games-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-06T08:59:00+09:00",
+   "summary": "Score Sorry We're Closed for free on Epic Games Store! Sorry We're Closed is a single-player survival game with arcade-style combat, puzzles and multiple endings. Check it out!",
+   "image": "https://www.gamerpower.com/offers/1/69481a230819b.jpg",
+   "tags": [
+    "PC",
+    "Epic Games Store",
+    "정가 $24.99"
+   ],
+   "first_seen": "2026-10-30T07:23:51.211409+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -338,7 +409,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -356,7 +427,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -374,7 +445,7 @@
     "정가 $3.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -392,7 +463,7 @@
     "정가 $7.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -410,7 +481,7 @@
     "정가 $384.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -428,7 +499,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -446,7 +517,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -464,7 +535,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -482,7 +553,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -500,7 +571,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -518,7 +589,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -536,7 +607,7 @@
     "정가 $2.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -554,7 +625,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -571,7 +642,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -588,7 +659,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -606,7 +677,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -750,7 +821,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -766,7 +837,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -782,7 +853,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -798,7 +869,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   },
   {
@@ -816,7 +887,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
+   "last_seen": "2026-10-30T07:23:51.211409+09:00",
    "notified": false
   }
  ]
