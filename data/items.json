@@ -1,23 +1,6 @@
 {
- "updated": "2026-10-30T21:03:57.987977+09:00",
+ "updated": "2026-10-31T06:54:27.269674+09:00",
  "items": [
-  {
-   "id": "e5bee646e3e6",
-   "category": "game",
-   "title": "Home - A Unique Horror Adventure",
-   "url": "https://store.epicgames.com/ko/p/home-19212a",
-   "source": "Epic Games",
-   "deadline": "2026-10-30T00:00:00+09:00",
-   "summary": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
-   "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
-   "tags": [
-    "Epic",
-    "지금 무료"
-   ],
-   "first_seen": "2026-10-23T01:33:48.693777+09:00",
-   "last_seen": "2026-10-29T21:13:39.612308+09:00",
-   "notified": false
-  },
   {
    "id": "8e241a274ec1",
    "category": "game",
@@ -69,7 +52,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -87,7 +70,7 @@
     "정가 $3.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -105,7 +88,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -123,7 +106,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -141,7 +124,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-30T07:23:51.211409+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -158,7 +141,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -176,7 +159,7 @@
     "정가 $5.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -194,7 +177,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-25T12:02:01.869688+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -211,7 +194,7 @@
     "지금 무료"
    ],
    "first_seen": "2026-10-30T07:23:51.211409+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -229,7 +212,43 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
+   "notified": false
+  },
+  {
+   "id": "0739b2d69dcd",
+   "category": "game",
+   "title": "Asleep: Act 1 (Steam) Giveaway",
+   "url": "https://www.gamerpower.com/open/asleep-act-1-steam-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-03T08:59:00+09:00",
+   "summary": "Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles.",
+   "image": "https://www.gamerpower.com/offers/1/6ae4ceb2e38bb.jpg",
+   "tags": [
+    "PC",
+    "Steam",
+    "정가 $9.99"
+   ],
+   "first_seen": "2026-10-31T06:54:27.269674+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
+   "notified": false
+  },
+  {
+   "id": "b15e4c79646e",
+   "category": "game",
+   "title": "A New Beginning: Final Cut (GOG) Giveaway",
+   "url": "https://www.gamerpower.com/open/a-new-beginning-final-cut-gog-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-03T08:59:00+09:00",
+   "summary": "Score A New Beginning: Final Cut for free via GOG! A New Beginning - Final Cut is a cinematic adventure game with amazing graphics and great characters. Don´t miss it!",
+   "image": "https://www.gamerpower.com/offers/1/6ae4af4cbf862.jpg",
+   "tags": [
+    "PC",
+    "GOG",
+    "정가 $9.99"
+   ],
+   "first_seen": "2026-10-31T06:54:27.269674+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -247,7 +266,7 @@
     "정가 $0.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -265,7 +284,7 @@
     "정가 $10.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -283,7 +302,7 @@
     "정가 $0.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -301,7 +320,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -319,7 +338,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -337,7 +356,7 @@
     "정가 $2.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -355,7 +374,7 @@
     "정가 $3.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -373,7 +392,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-30T07:23:51.211409+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -391,7 +410,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-30T07:23:51.211409+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -409,7 +428,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -427,7 +446,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -445,7 +464,7 @@
     "정가 $3.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -463,7 +482,7 @@
     "정가 $7.99"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -481,7 +500,7 @@
     "정가 $384.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -499,7 +518,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -517,7 +536,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -535,7 +554,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -553,7 +572,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -571,7 +590,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -589,7 +608,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -625,7 +644,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -642,7 +661,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -659,7 +678,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -677,7 +696,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -821,7 +840,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -837,7 +856,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -853,7 +872,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -869,7 +888,7 @@
     "무료"
    ],
    "first_seen": "2026-10-26T12:01:17.399373+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   },
   {
@@ -887,7 +906,25 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-10-30T21:03:57.987977+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
+   "notified": false
+  },
+  {
+   "id": "e8a25cd38433",
+   "category": "game",
+   "title": "My Darkest Witch (IndieGala) Giveaway",
+   "url": "https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway",
+   "source": "GamePower",
+   "deadline": null,
+   "summary": "Score My Darkest Witch for free on IndieGala! My Darkest Witch is a 2d survival arena game with endless waves of enemies.",
+   "image": "https://www.gamerpower.com/offers/1/69061997da81d.jpg",
+   "tags": [
+    "PC",
+    "DRM-Free",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-10-31T06:54:27.269674+09:00",
+   "last_seen": "2026-10-31T06:54:27.269674+09:00",
    "notified": false
   }
  ]
