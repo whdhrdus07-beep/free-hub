@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:55:49.868844+09:00",
+ "updated": "2026-11-06T08:13:52.673338+09:00",
  "items": [
   {
    "id": "b8d1ff71b968",
@@ -249,7 +249,7 @@
     "정가 $6.99"
    ],
    "first_seen": "2026-11-04T22:44:03.905701+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -267,7 +267,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-11-01T05:56:16.483490+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -285,7 +285,7 @@
     "정가 $7.99"
    ],
    "first_seen": "2026-11-01T05:56:16.483490+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -303,7 +303,7 @@
     "정가 $6.99"
    ],
    "first_seen": "2026-11-02T06:38:39.206386+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -321,7 +321,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -339,7 +339,7 @@
     "정가 $7.99"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -357,7 +357,77 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
+   "notified": false
+  },
+  {
+   "id": "d073d23114bc",
+   "category": "game",
+   "title": "Idle Champions of the Forgotten Realms",
+   "url": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
+   "source": "Epic Games",
+   "deadline": "2026-11-13T01:00:00+09:00",
+   "summary": "Idle Champions는 Dungeons & Dragons의 라이선스를 받은 전략 관리 비디오 게임으로 소설, 캠페인, 방송 등에 출연한 상징적인 캐릭터를 하나의 장대한 모험에 집결시킵니다.",
+   "image": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg",
+   "tags": [
+    "Epic",
+    "지금 무료"
+   ],
+   "first_seen": "2026-11-06T08:13:52.673338+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
+   "notified": false
+  },
+  {
+   "id": "7593b6966b8a",
+   "category": "game",
+   "title": "표류도시",
+   "url": "https://store.epicgames.com/ko/p/flotsam-266287",
+   "source": "Epic Games",
+   "deadline": "2026-11-13T01:00:00+09:00",
+   "summary": "떠다니는 쓰레기 마을 생존 게임! 바다 표면에서 얻을 수 있는 귀중한 쓰레기를 최대한 모으고, 이 화려한 포스트 아포칼립스 세계에서 살아남기 위해 노력하며 도시를 성장시키세요.",
+   "image": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
+   "tags": [
+    "Epic",
+    "지금 무료"
+   ],
+   "first_seen": "2026-11-06T08:13:52.673338+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
+   "notified": false
+  },
+  {
+   "id": "7dd894ec45db",
+   "category": "game",
+   "title": "Chants of Sennaar (Mobile) Giveaway",
+   "url": "https://www.gamerpower.com/open/chants-of-sennaar-mobile-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-13T08:59:00+09:00",
+   "summary": "Chants of Sennaar (Mobile version) is free until November 12 on the Epic Games Store App for iPhone, iPad, and Android. Note: May not be available in all regions.",
+   "image": "https://www.gamerpower.com/offers/1/6aecabf3ea6a1.jpg",
+   "tags": [
+    "Android",
+    "iOS",
+    "정가 $7.99"
+   ],
+   "first_seen": "2026-11-06T08:13:52.673338+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
+   "notified": false
+  },
+  {
+   "id": "21eacdf14c7a",
+   "category": "game",
+   "title": "Flotsam (Epic Games) Giveaway",
+   "url": "https://www.gamerpower.com/open/flotsam-epic-games-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-11-13T08:59:00+09:00",
+   "summary": "Set sail with this giveaway! Download Flotsam for free via Epic Games Store! Flotsam is a cool 3d city-builder in a flooded world. Don´t miss it!",
+   "image": "https://www.gamerpower.com/offers/1/6aeca99004384.jpg",
+   "tags": [
+    "PC",
+    "Epic Games Store",
+    "정가 $24.99"
+   ],
+   "first_seen": "2026-11-06T08:13:52.673338+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -375,7 +445,7 @@
     "정가 $384.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -393,7 +463,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -411,7 +481,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -429,7 +499,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -447,7 +517,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -465,7 +535,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -519,7 +589,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -536,7 +606,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -553,7 +623,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -571,7 +641,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -717,7 +787,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -735,7 +805,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-31T06:54:27.269674+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -751,7 +821,7 @@
     "무료"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -767,7 +837,7 @@
     "무료"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -783,7 +853,7 @@
     "무료"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   },
   {
@@ -799,7 +869,7 @@
     "무료"
    ],
    "first_seen": "2026-11-02T13:10:57.207519+09:00",
-   "last_seen": "2026-11-05T22:55:49.868844+09:00",
+   "last_seen": "2026-11-06T08:13:52.673338+09:00",
    "notified": false
   }
  ]
