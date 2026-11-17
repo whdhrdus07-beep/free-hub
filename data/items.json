@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:30:25.074123+09:00",
+ "updated": "2026-11-18T00:27:08.524278+09:00",
  "items": [
   {
    "id": "46b534020b47",
@@ -15,7 +15,7 @@
     "지금 무료"
    ],
    "first_seen": "2026-11-13T04:29:34.842009+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -33,7 +33,7 @@
     "정가 $14.99"
    ],
    "first_seen": "2026-11-13T04:29:34.842009+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -51,7 +51,25 @@
     "정가 $384.00"
    ],
    "first_seen": "2026-10-29T07:08:21.684764+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
+   "notified": false
+  },
+  {
+   "id": "db8b8b9a0a43",
+   "category": "game",
+   "title": "Contractor: The Clean Up Part 2 (Epic Games) Giveaway",
+   "url": "https://www.gamerpower.com/open/contractor-the-clean-up-part-2-epic-games-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-12-03T08:59:00+09:00",
+   "summary": "Score Contractor: The Clean Up Part 2 for free via Epic Games Store! Take control of a powerful loader and clear construction sites filled with rubble, broken concrete, and debris.",
+   "image": "https://www.gamerpower.com/offers/1/6afc554f06761.jpg",
+   "tags": [
+    "PC",
+    "Epic Games Store",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-11-18T00:27:08.524278+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -69,7 +87,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -87,7 +105,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -105,7 +123,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -123,7 +141,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -141,25 +159,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
-   "notified": false
-  },
-  {
-   "id": "1b4ca614427d",
-   "category": "game",
-   "title": "Wordle (IndieGala) Giveaway",
-   "url": "https://www.gamerpower.com/open/wordle-pc-giveaway",
-   "source": "GamePower",
-   "deadline": null,
-   "summary": "Dreaming about Wordle? What a coincidence, it’s on IndieGala for free! Download it now and make your dreams come true.",
-   "image": "https://www.gamerpower.com/offers/1/68e15e986da99.jpg",
-   "tags": [
-    "PC",
-    "DRM-Free",
-    "정가 $29.99"
-   ],
-   "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-03T22:33:47.891721+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -177,7 +177,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -194,7 +194,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -211,7 +211,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -229,7 +229,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -247,7 +247,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -265,7 +265,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-31T06:54:27.269674+09:00",
-   "last_seen": "2026-11-17T10:30:25.074123+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   },
   {
@@ -394,6 +394,70 @@
    ],
    "first_seen": "2026-11-09T13:28:12.457103+09:00",
    "last_seen": "2026-11-15T22:23:57.216697+09:00",
+   "notified": false
+  },
+  {
+   "id": "ebe5f58a3ec3",
+   "category": "design",
+   "title": "Family Dental Logo Design Family Doctor Logo",
+   "url": "https://www.codester.com/items/57127/family-dental-logo-design-family-doctor-logo",
+   "source": "Codester",
+   "deadline": null,
+   "summary": "",
+   "image": "https://www.codester.com/static/uploads/items/000/057/57127/preview-small.jpg",
+   "tags": [
+    "무료"
+   ],
+   "first_seen": "2026-11-18T00:27:08.524278+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
+   "notified": false
+  },
+  {
+   "id": "44de04c93ae8",
+   "category": "design",
+   "title": "Phantom Wave - Audio Steganography App",
+   "url": "https://www.codester.com/items/56572/phantom-wave-audio-steganography-app",
+   "source": "Codester",
+   "deadline": null,
+   "summary": "",
+   "image": "https://www.codester.com/static/uploads/items/000/056/56572/preview-small.jpg",
+   "tags": [
+    "무료"
+   ],
+   "first_seen": "2026-11-18T00:27:08.524278+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
+   "notified": false
+  },
+  {
+   "id": "07f3753fab47",
+   "category": "design",
+   "title": "FM Radio Pro Android App",
+   "url": "https://www.codester.com/items/56405/fm-radio-pro-android-app",
+   "source": "Codester",
+   "deadline": null,
+   "summary": "",
+   "image": "https://www.codester.com/static/uploads/items/000/056/56405/preview-small.jpg",
+   "tags": [
+    "무료"
+   ],
+   "first_seen": "2026-11-18T00:27:08.524278+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
+   "notified": false
+  },
+  {
+   "id": "439ce3b84d12",
+   "category": "design",
+   "title": "Building Construction Logo Template",
+   "url": "https://www.codester.com/items/56068/building-construction-logo-template",
+   "source": "Codester",
+   "deadline": null,
+   "summary": "",
+   "image": "https://www.codester.com/static/uploads/items/000/056/56068/preview-small.jpg",
+   "tags": [
+    "무료"
+   ],
+   "first_seen": "2026-11-18T00:27:08.524278+09:00",
+   "last_seen": "2026-11-18T00:27:08.524278+09:00",
    "notified": false
   }
  ]
