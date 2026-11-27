@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:18:32.741230+09:00",
+ "updated": "2026-11-27T10:27:31.646633+09:00",
  "items": [
   {
    "id": "c07da778b4e8",
@@ -69,7 +69,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-11-18T00:27:08.524278+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -86,7 +86,7 @@
     "지금 무료"
    ],
    "first_seen": "2026-11-27T01:18:32.741230+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -103,7 +103,43 @@
     "지금 무료"
    ],
    "first_seen": "2026-11-27T01:18:32.741230+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
+   "notified": false
+  },
+  {
+   "id": "bf1baad38569",
+   "category": "game",
+   "title": "A Tiny Sticker Tale (Mobile) Giveaway",
+   "url": "https://www.gamerpower.com/open/a-tiny-sticker-tale-mobile-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-12-04T08:59:00+09:00",
+   "summary": "A Tiny Sticker Tale (Mobile version) is free until December 3 on the Epic Games Store App for iPhone, iPad, and Android. Note: May not be available in all regions.",
+   "image": "https://www.gamerpower.com/offers/1/6b085c2f77be3.jpg",
+   "tags": [
+    "Android",
+    "iOS",
+    "정가 $3.99"
+   ],
+   "first_seen": "2026-11-27T10:27:31.646633+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
+   "notified": false
+  },
+  {
+   "id": "5ff70a48c7e2",
+   "category": "game",
+   "title": "Bread and Fred (Epic Games) Giveaway",
+   "url": "https://www.gamerpower.com/open/bread-and-fred-epic-games-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-12-04T08:59:00+09:00",
+   "summary": "The mountain awaits you! Claim Bread and Fred for free via Epic Games Store! Bread and Fred is a cute 2d co-op platformer where two players must cooperate to climb to the top of a snowy mountain.",
+   "image": "https://www.gamerpower.com/offers/1/6b0857f437cbd.jpg",
+   "tags": [
+    "PC",
+    "Epic Games Store",
+    "정가 $14.99"
+   ],
+   "first_seen": "2026-11-27T10:27:31.646633+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -121,7 +157,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -139,7 +175,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -157,7 +193,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -175,7 +211,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -193,7 +229,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -211,7 +247,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -228,7 +264,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -245,7 +281,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -263,7 +299,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -281,7 +317,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -299,7 +335,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-31T06:54:27.269674+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -443,7 +479,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -459,7 +495,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -475,7 +511,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   },
   {
@@ -491,7 +527,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
+   "last_seen": "2026-11-27T10:27:31.646633+09:00",
    "notified": false
   }
  ]
