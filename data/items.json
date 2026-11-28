@@ -1,42 +1,6 @@
 {
- "updated": "2026-11-28T01:03:34.296025+09:00",
+ "updated": "2026-11-28T10:01:39.183151+09:00",
  "items": [
-  {
-   "id": "d69d13dd098d",
-   "category": "game",
-   "title": "Lonesome Village (Mobile) Giveaway",
-   "url": "https://www.gamerpower.com/open/lonesome-village-mobile-giveaway",
-   "source": "GamePower",
-   "deadline": "2026-11-27T08:59:00+09:00",
-   "summary": "Chants of Sennaar (Mobile version) is free until November 26 on the Epic Games Store App for iPhone, iPad, and Android. Note: May not be available in all regions.",
-   "image": "https://www.gamerpower.com/offers/1/6aff20a09cb65.jpg",
-   "tags": [
-    "Android",
-    "iOS",
-    "정가 $4.99"
-   ],
-   "first_seen": "2026-11-20T09:15:13.258704+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
-   "notified": false
-  },
-  {
-   "id": "1d0ed301033f",
-   "category": "game",
-   "title": "Mark of the Deep (Epic Games) Giveaway",
-   "url": "https://www.gamerpower.com/open/mark-of-the-deep-epic-games-giveaway",
-   "source": "GamePower",
-   "deadline": "2026-11-27T08:59:00+09:00",
-   "summary": "Score Mark of the Deep for free on Epic Games Store! Mark of the Deep is a pirate-themed adventure game with elements from Metroidvania and Souls-Like games.",
-   "image": "https://www.gamerpower.com/offers/1/6aff1d0e4942d.jpg",
-   "tags": [
-    "PC",
-    "Epic Games Store",
-    "정가 $19.99"
-   ],
-   "first_seen": "2026-11-20T09:15:13.258704+09:00",
-   "last_seen": "2026-11-27T01:18:32.741230+09:00",
-   "notified": false
-  },
   {
    "id": "8f0881bdc688",
    "category": "game",
@@ -52,7 +16,7 @@
     "정가 $6.99"
    ],
    "first_seen": "2026-11-28T01:03:34.296025+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -70,7 +34,25 @@
     "정가 $17.99"
    ],
    "first_seen": "2026-11-28T01:03:34.296025+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
+   "notified": false
+  },
+  {
+   "id": "c6cd38c626b3",
+   "category": "game",
+   "title": "Boots Quest DX (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/boots-quest-dx-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-12-01T08:59:59+09:00",
+   "summary": "Download Boots Quest DX for free on itch.io! Boots Quest DX is a small adventure game with lots of puzzles and items to collect!",
+   "image": "https://www.gamerpower.com/offers/1/64cd77c7ac5fe.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $9.99"
+   ],
+   "first_seen": "2026-11-28T10:01:39.183151+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -88,7 +70,24 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-11-18T00:27:08.524278+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
+   "notified": false
+  },
+  {
+   "id": "688986def6e9",
+   "category": "game",
+   "title": "Tim-Tim 2: The Almighty Gnome (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/tim-tim-2-the-almighty-gnome-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-12-03T08:59:01+09:00",
+   "summary": "Score Tim-Tim 2: The Almighty Gnome for free on itch.io! Tim-Tim 2: The Almighty Gnome is a 2d adventure game with over 100 maps to explore.",
+   "image": "https://www.gamerpower.com/offers/1/63a7d58806279.jpg",
+   "tags": [
+    "PC",
+    "정가 $3.99"
+   ],
+   "first_seen": "2026-11-28T10:01:39.183151+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -105,7 +104,7 @@
     "지금 무료"
    ],
    "first_seen": "2026-11-27T01:18:32.741230+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -122,7 +121,7 @@
     "지금 무료"
    ],
    "first_seen": "2026-11-27T01:18:32.741230+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -140,7 +139,7 @@
     "정가 $3.99"
    ],
    "first_seen": "2026-11-27T10:27:31.646633+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -158,7 +157,61 @@
     "정가 $14.99"
    ],
    "first_seen": "2026-11-27T10:27:31.646633+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
+   "notified": false
+  },
+  {
+   "id": "40f70df78347",
+   "category": "game",
+   "title": "Ba Bị (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/n-a",
+   "source": "GamePower",
+   "deadline": "2026-12-05T08:59:00+09:00",
+   "summary": "Download Ba Bị for free on itch.io! Ba Bị 3D is a puzzle game based on Vietnamese folklore.",
+   "image": "https://www.gamerpower.com/offers/1/6b0a1024d09c7.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $4.99"
+   ],
+   "first_seen": "2026-11-28T10:01:39.183151+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
+   "notified": false
+  },
+  {
+   "id": "b8da28fb88fb",
+   "category": "game",
+   "title": "Lonely in the Winter (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/lonely-in-the-winter-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2026-12-07T08:59:00+09:00",
+   "summary": "Claim Lonely in the Winter for free via itch.io! Lonely in the Winter is a small 2d rpg game with casual gameplay.",
+   "image": "https://www.gamerpower.com/offers/1/6b0a113ba497d.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $2.99"
+   ],
+   "first_seen": "2026-11-28T10:01:39.183151+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
+   "notified": false
+  },
+  {
+   "id": "3421be950fbc",
+   "category": "game",
+   "title": "Rulebound (itch.io) Giveaway",
+   "url": "https://www.gamerpower.com/open/rulebound-itch-io-giveaway",
+   "source": "GamePower",
+   "deadline": "2027-01-01T08:59:00+09:00",
+   "summary": "Score Rulebound for free via itch.io! Rulebound is a 3d surreal incremental game where survival depends on split attention.",
+   "image": "https://www.gamerpower.com/offers/1/6b0a0de4276dc.jpg",
+   "tags": [
+    "PC",
+    "Itch.io",
+    "정가 $6.99"
+   ],
+   "first_seen": "2026-11-28T10:01:39.183151+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -176,7 +229,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -194,7 +247,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -230,7 +283,7 @@
     "정가 $29.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -248,7 +301,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -266,7 +319,7 @@
     "정가 $9.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -283,7 +336,7 @@
     "정가 $24.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -300,7 +353,7 @@
     "정가 $1.99"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -318,7 +371,7 @@
     "정가 $2.00"
    ],
    "first_seen": "2026-10-20T20:01:43.907865+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -336,7 +389,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-27T07:15:10.713096+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -354,7 +407,7 @@
     "정가 $4.99"
    ],
    "first_seen": "2026-10-31T06:54:27.269674+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -498,7 +551,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -514,7 +567,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -530,7 +583,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -546,7 +599,7 @@
     "무료"
    ],
    "first_seen": "2026-11-23T08:10:34.137070+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   },
   {
@@ -564,7 +617,7 @@
     "정가 $0.99"
    ],
    "first_seen": "2026-11-28T01:03:34.296025+09:00",
-   "last_seen": "2026-11-28T01:03:34.296025+09:00",
+   "last_seen": "2026-11-28T10:01:39.183151+09:00",
    "notified": false
   }
  ]
